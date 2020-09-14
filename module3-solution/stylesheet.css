@@ -1,0 +1,28 @@
+#header-nav{
+	
+	border-radius: 0;
+	border: 0;
+}
+
+#grid{
+	background-color: #FAD7A0;
+
+}
+
+.col{
+	padding: 10px 10px 10px 10px;
+}
+
+h1{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+ul{
+	background-color: #2E86C1;
+}
+
+#nav-brand{
+	padding-left: 15px;
+	
+}
